@@ -1,0 +1,19 @@
+title = "Mii maker"
+description = "mii maker It is an application that serves to create mii"
+needs_system_files = true
+needs_shared_font = false
+
+[[releases]]
+title = "1234567891234567"
+region = "jpn"
+release_date = "2011-03-25"
+
+[[testcases]]
+title = "000400000009F200"
+compatibility = "0"
+date = "2011-03-25"
+version = "HEAD-22e7402"
+cpu = "Intel Core i7-4720HQ"
+gpu = "GeForce GTX 960M"
+os = "Windows 10 14393"
+author = "nabilhoche"
